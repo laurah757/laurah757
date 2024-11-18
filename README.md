@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laurah757
-- 👀 I’m interested in learning to code.
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning javascript and revising html and css.
 - 💞️ I’m looking to collaborate on fun beginner projects.
 - 📫 How to reach me ...
